@@ -19,5 +19,5 @@ Prioritization: Assignment of priority levels (HIGH/MEDIUM/LOW)
 
 Architecture: Extending SecureBERT based model and neural network with multiple classification heads
 
-![SR-Page-2](https://github.com/user-attachments/assets/ad745969-5b27-4534-becf-b57cf53794c3)
+![SR-Page-2](https://github.com/user-attachments/assets/5ecd1d35-ad6b-4afa-bd5a-6e9121b23603)
 

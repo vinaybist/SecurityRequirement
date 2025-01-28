@@ -1,4 +1,4 @@
-# SecurityRequirement
+# CaPS-Sec
 Categorization, Prioritization, and Summarization of Security Vulnerabilities or Weaknesses
 
 # Project Description
